@@ -1,0 +1,8 @@
+{"time":"April 25th 2019, 8:35:01 pm","client":"::1","error":"{\"name\":\"JsonWebTokenError\",\"message\":\"jwt malformed\"}","fn":"RE-5"}
+{"time":"February 7th 2021, 7:03:19 am","client":"::1","error":"{}","fn":"UC-LU"}
+{"time":"February 7th 2021, 7:03:50 am","client":"::1","error":"{}","fn":"UC-LU"}
+{"time":"February 7th 2021, 7:04:21 am","client":"::1","error":"{}","fn":"UC-LU"}
+{"time":"February 7th 2021, 7:06:28 am","client":"::1","error":"{}","fn":"UC-LU"}
+{"time":"February 7th 2021, 7:07:11 am","client":"::1","error":"{}","fn":"UC-LU"}
+{"time":"February 7th 2021, 7:09:09 am","client":"::1","error":"{}","fn":"UC-LU"}
+{"time":"February 7th 2021, 7:10:29 am","client":"::1","error":"{}","fn":"UC-LU"}
